@@ -13,27 +13,22 @@ redirect_from:
 
 Academic Education
 ======
-* **03/2022 – today:** Doctoral Degree in Political Science, Johannes Gutenberg University Mainz
+* **03/2022 –:** Doctoral Degree in Political Science, Johannes Gutenberg University Mainz
   * Supervisor: Prof. Dr. Claudia Landwehr
 
 * **10/2019 – 02/2022:** Master of Arts "Governance and Public Policy – Staatswissenschaften", University of Passau
-  * Thesis: *Issue Entrepreneurship auf nationaler und europäischer Ebene: Eine vergleichende Analyse von Parteipositionen zum Issue 'Migration'* (Supervisor: Prof. Dr. Daniel Göler; Grade: 1.3)
-  * Final Grade: 1.5
 
-* **10/2016 – 07/2019:** Bachelor of Science "Public Governance across Borders", University of Münster and University of Twente (Joint Degree)
-  * Thesis: *The Link between Europeanization and Democratization in the Visegrád Group: Young Europeans and the National Context of Euroscepticism* (Supervisor: Dr. Veronica Junjan; Grade: 1.3)
-  * Final Grade: 1.4
+* **10/2016 – 07/2019:** Bachelor of Science "Public Governance across Borders", University of Münster, University of Twente
 
 Academic Employment
 ======
-* **From 03/2022:** Doctoral Researcher, Political Theory and Public Policy (Prof. Dr. Claudia Landwehr), Department of Political Science, Johannes Gutenberg University Mainz
+* **03/2022 –:** Doctoral Researcher, Department of Political Science, Johannes Gutenberg University Mainz
   * DFG-funded project *Conceptions of Democracy among Political Elites and Citizens* (03/2022 – 08/2026)
-  * DFG-funded project *False Consensus Beliefs in Politics and their Effects on Legitimacy* (Research Group Big Structural Change) (from 09/2026)
+  * DFG-funded project *False Consensus Beliefs in Politics and their Effects on Legitimacy* (Research Group Big Structural Change) (09/2026 –)
 
-* **01/2020 – 02/2022:** Student Assistant and Tutor, Jean-Monnet Chair for European Politics (Prof. Dr. Daniel Göler), University of Passau
+* **01/2020 – 02/2022:** Student Assistant and Tutor, Jean-Monnet Chair for European Politics, University of Passau
 
 * **04/2019 – 09/2019:** Student Tutor, Institute for Political Science, University of Münster
-  * Tutor for the Lecture Statistics I (Prof. Dr. Bernd Schlipphak)
 
 Publications
 ======
@@ -57,6 +52,7 @@ Invited Talks and Workshops
 Conference Presentations
 ======
 * EPSS Annual Meeting (2026)
+* Jahrestagung AK Analytische Politische Theorie, DVPW (2025)
 * ECPR General Conference (2023, 2025)
 * ECPR Joint Sessions, Workshop "Authoritarian Nostalgia and Populist Radical Right Parties" (2025)
 * DVPW-Kongress (2024)
@@ -78,12 +74,10 @@ Academic Teaching
 Additional Training
 ======
 * **2025 – 2026:** WissKomm Academy – Kompetenztraining Wissenschaftskommunikation [Competence Training for Science Communication], Akademie der Wissenschaften und der Literatur, Mainz
-  * Training modules on presentation rhetoric, interviews and panel discussions, communicating in the digital sphere
-* **03/2026:** GESIS Panel.dbd Insight Days, GESIS, Mannheim
+* **2026:** GESIS Panel.dbd Insight Days, GESIS, Mannheim
 * **2023 – 2025:** Rheinland-Pfalz-Zertifikat für Hochschuldidaktik [Certificate for University Teaching], Center for Quality Assurance and Development, Mainz
-  * Courses on university teaching methods and individual consultation on teaching practice totaling 90 hours
-* **07/2023 – 08/2023:** Summer Institute in Computational Social Science (SICSS), Ludwig Maximilian University Munich
-* **08/2022:** Course "Factorial Survey Design", GESIS Summer School, Cologne
+* **2023:** Summer Institute in Computational Social Science (SICSS), University of Munich
+* **2023:** Training Course on Factorial Survey Design, GESIS Summer School, Cologne
 
 Academic Service
 ======
