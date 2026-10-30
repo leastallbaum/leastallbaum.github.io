@@ -226,7 +226,7 @@ collections:
     output: false # vorerst ausgeblendet; zum Wiedereinblenden auf true setzen
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false # Titel verlinken direkt auf das Paper, keine eigenen Unterseiten
     permalink: /:collection/:path/
   portfolio:
     output: true
