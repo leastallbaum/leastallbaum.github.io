@@ -13,4 +13,4 @@ My research examines how citizens and political elites understand democracy and 
 
 I currently work in the DFG-funded project *False Consensus Beliefs in Politics and their Effects on Legitimacy* (Research Group Big Structural Change). Until August 2026, I worked in the DFG-funded project *Conceptions of Democracy among Political Elites and Citizens*.
 
-You can find my publications on the [Publications](/publications/) page. My full academic CV, including talks and teaching, is available on the [CV](/cv/) page and [as a PDF]({{ '/files/CV_Lea_Stallbaum.pdf' | prepend: site.baseurl }}).
+You can find my publications on the [Publications](/publications/) page. My full academic CV is available on the [CV](https://leastallbaum.github.io/cv/) page.

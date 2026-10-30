@@ -31,7 +31,6 @@ author:
   employer         : "Johannes Gutenberg University Mainz"
   uri              : # URL
   email            : "stallbaum@politik.uni-mainz.de"
-  cv               : "/files/CV_Lea_Stallbaum.pdf" # PDF-Download in der Seitenleiste (siehe _includes/author-profile.html)
 
   # Academic websites
   academia         : # URL
