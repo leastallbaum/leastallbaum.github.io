@@ -18,3 +18,23 @@
     margin: 0 0 0.3em;
   }
 }
+
+
+/* Wider sidebar with a gutter to the main content (desktop only) */
+@media screen and (min-width: 925px) {
+  .sidebar {
+    width: 290px;
+    max-width: 290px;
+    padding-right: 0;
+  }
+
+  .page,
+  .archive {
+    float: right;
+    width: calc(100% - 330px);
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
