@@ -22,19 +22,19 @@
 
 /* Wider sidebar with a gutter to the main content (desktop only) */
 @media screen and (min-width: 925px) {
-  .sidebar {
-    width: 290px;
-    max-width: 290px;
-    padding-right: 0;
+  body .sidebar {
+    width: 290px !important;
+    max-width: 290px !important;
+    padding-right: 0 !important;
   }
 
-  .page,
-  .archive {
-    float: right;
-    width: calc(100% - 330px);
-    margin-left: 0;
-    margin-right: 0;
-    padding-left: 0;
-    padding-right: 0;
+  body .page,
+  body .archive {
+    float: right !important;
+    width: calc(100% - 330px) !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
   }
 }
