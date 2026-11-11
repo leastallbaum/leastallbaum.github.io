@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: "About me"
+seo_title: "Lea Stallbaum - Political Science, Johannes Gutenberg University Mainz"
+description: "Lea Stallbaum is a Doctoral Researcher in Political Science at Johannes Gutenberg University Mainz. Her research focuses on how citizens and political elites understand democracy."
 author_profile: true
 redirect_from: 
   - /about/
